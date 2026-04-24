@@ -8,10 +8,6 @@ It is built for a light, playful desktop feel without turning into a full widget
   <img src="./docs/images/taskbar-pixel-pals-icon.png" alt="Taskbar Pixel Pals icon" width="180" />
 </p>
 
-<p align="center">
-  <img src="./docs/images/taskbar-pixel-pals-settings-ui.png" alt="Taskbar Pixel Pals settings UI" width="360" />
-</p>
-
 ## Links
 
 - Product page: [firbe-labs.netlify.app/products/taskbar-pixel-pals](https://firbe-labs.netlify.app/products/taskbar-pixel-pals/)
@@ -93,6 +89,37 @@ Start Taskbar Pixel Pals.
 The app opens a settings window and starts the overlay behavior.
 
 The settings window is the main control UI for the app.
+
+### UI Control Guide
+
+<p align="center">
+  <img src="./docs/images/taskbar-pixel-pals-settings-ui-annotated.png" alt="Taskbar Pixel Pals control guide" width="360" />
+</p>
+
+1. `Character`
+   This is the section where you choose the default character family for the overlay.
+2. `Character dropdown`
+   Pick the pal you want to use by default: `Cow`, `Penguin`, `Duck`, or `Dog`.
+3. `Motion`
+   This is the section where you choose the default motion style.
+4. `Motion dropdown`
+   Pick the motion profile you want to use by default: `Calm`, `Playful`, or `Bouncy`.
+5. `Scale`
+   Change the overall overlay size with `Small`, `Medium`, or `Large`.
+6. `Hide overlay while a fullscreen app is active`
+   Keep this on if you want the pal to disappear during games, video playback, or fullscreen work.
+7. `Normal hover position`
+   Fine-tune where the character appears when you hover a regular taskbar icon before any preview thumbnail opens.
+
+Below the area shown in this screenshot, the same X/Y control pattern continues for `Preview hover position`.
+
+- Use `Normal hover position` for the default icon-hover state.
+- Use `Preview hover position` when the Windows thumbnail preview is open and the character is perched against that preview.
+- `X` moves left or right.
+- `Y` moves vertically.
+- In the current UI, negative `Y` values move the character downward and positive `Y` values move it upward.
+- `Apply` saves the current settings and minimizes the settings window.
+- `Close` exits the app.
 
 ### 2. Choose a character
 
