@@ -9,7 +9,7 @@ It is built for a light, playful desktop feel without turning into a full widget
 </p>
 
 <p align="center">
-  <img src="./docs/images/taskbar-pixel-pals-product-page.png" alt="Taskbar Pixel Pals product page" width="100%" />
+  <img src="./docs/images/taskbar-pixel-pals-settings-ui.png" alt="Taskbar Pixel Pals settings UI" width="360" />
 </p>
 
 ## Links
@@ -92,6 +92,8 @@ Start Taskbar Pixel Pals.
 
 The app opens a settings window and starts the overlay behavior.
 
+The settings window is the main control UI for the app.
+
 ### 2. Choose a character
 
 You can pick one fixed character:
@@ -130,11 +132,19 @@ You can adjust:
 - `Hover position X/Y`
 - `Preview hover position X/Y`
 
-Notes:
+What each mode means:
 
-- `Hover` controls the normal taskbar icon hover position.
-- `Preview` controls the perched position when a preview pops up.
-- In the current UI, negative `Y` values move the character downward.
+- `Normal hover position`
+  This controls where the character appears when you hover a normal taskbar icon and no preview thumbnail is open yet.
+- `Preview hover position`
+  This controls where the character sits when the Windows preview thumbnail pops up and the character perches against that preview.
+
+Adjustment notes:
+
+- `X` moves the character left or right.
+- `Y` moves the character vertically.
+- In the current UI, negative `Y` values move the character downward and positive `Y` values move it upward.
+- If the perched pose looks slightly too low or too high, adjust `Preview hover position` instead of `Normal hover position`.
 
 ### 6. Fullscreen suppression
 
@@ -184,7 +194,14 @@ Use `Hover position Y` or `Preview hover position Y` in settings until it lines 
 
 ### The preview pose looks slightly off for your system
 
-Use `Preview hover position X/Y` to fine-tune the perched alignment.
+Use `Preview hover position X/Y` to fine-tune the perched alignment on the preview thumbnail.
+
+### I am not sure whether to change Normal hover or Preview hover
+
+Use:
+
+- `Normal hover position` for the default icon-hover state
+- `Preview hover position` for the thumbnail-preview perched state
 
 ### Nothing appears while a fullscreen app is open
 
