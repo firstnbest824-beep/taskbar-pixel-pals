@@ -4,6 +4,14 @@ Taskbar Pixel Pals is a small Windows desktop companion that places animated pix
 
 It is built for a light, playful desktop feel without turning into a full widget platform.
 
+<p align="center">
+  <img src="./docs/images/taskbar-pixel-pals-icon.png" alt="Taskbar Pixel Pals icon" width="180" />
+</p>
+
+<p align="center">
+  <img src="./docs/images/taskbar-pixel-pals-product-page.png" alt="Taskbar Pixel Pals product page" width="100%" />
+</p>
+
 ## Links
 
 - Product page: [firbe-labs.netlify.app/products/taskbar-pixel-pals](https://firbe-labs.netlify.app/products/taskbar-pixel-pals/)
