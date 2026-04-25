@@ -5,7 +5,7 @@ Taskbar Pixel Pals is a small Windows desktop companion that places animated pix
 It is built for a light, playful desktop feel without turning into a full widget platform.
 
 <p align="center">
-  <img src="./docs/images/taskbar-pixel-pals-icon.png" alt="Taskbar Pixel Pals icon" width="180" />
+  <img src="./docs/images/taskbar-pixel-pals-hero.png" alt="Taskbar Pixel Pals hero image" width="100%" />
 </p>
 
 ## Links
@@ -31,13 +31,15 @@ Current MVP includes:
 
 ## Download
 
+> If you are not sure which file to download, start with `TaskbarPixelPalsSetup.exe`.
+
 The latest release includes three download options.
 
 | File | Recommended for | Notes |
 | --- | --- | --- |
-| `TaskbarPixelPalsSetup.exe` | Most users | Recommended. Installs the app, creates a Start menu entry, and adds uninstall support. |
-| `TaskbarPixelPals.U2OverlaySpike.exe` | Portable use | Raw executable with no installer. |
-| `taskbar-pixel-pals-windows-x64.zip` | Manual extraction | Portable ZIP build. |
+| `TaskbarPixelPalsSetup.exe` | Most users | Recommended. This is the normal installer most people should download. |
+| `TaskbarPixelPals.U2OverlaySpike.exe` | Portable use | Standalone executable with no installer. |
+| `taskbar-pixel-pals-windows-x64.zip` | Manual extraction | ZIP version of the portable build. |
 
 ## Installation
 
