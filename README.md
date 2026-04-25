@@ -1,5 +1,9 @@
 # Taskbar Pixel Pals
 
+<p align="center">
+  English | <a href="./README.ko.md">한국어</a>
+</p>
+
 Taskbar Pixel Pals is a small Windows desktop companion that places animated pixel animals on your taskbar.
 
 It is built for a light, playful desktop feel without turning into a full widget platform.
