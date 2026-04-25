@@ -9,6 +9,22 @@ Taskbar Pixel Pals is a small Windows app that puts animated pixel animals on yo
 It is made to add a light, playful touch to your desktop without feeling heavy or cluttered.
 
 <p align="center">
+  <a href="https://github.com/firstnbest824-beep/taskbar-pixel-pals/releases/latest/download/TaskbarPixelPalsSetup.exe">
+    <img alt="Download Setup EXE" src="https://img.shields.io/badge/Recommended-Setup_EXE-E1C15A?style=for-the-badge&logo=windows11&logoColor=111827">
+  </a>
+  <a href="https://github.com/firstnbest824-beep/taskbar-pixel-pals/releases/latest/download/TaskbarPixelPals.U2OverlaySpike.exe">
+    <img alt="Download Portable EXE" src="https://img.shields.io/badge/Run_Without_Installing-Portable_EXE-2B3442?style=for-the-badge&logo=windows-terminal&logoColor=FFFFFF">
+  </a>
+  <a href="https://github.com/firstnbest824-beep/taskbar-pixel-pals/releases/latest">
+    <img alt="See all downloads" src="https://img.shields.io/badge/View-All_Downloads-171B22?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  </a>
+</p>
+
+<p align="center">
+  Most users should download <code>TaskbarPixelPalsSetup.exe</code>.
+</p>
+
+<p align="center">
   <img src="./docs/images/taskbar-pixel-pals-hero.png" alt="Taskbar Pixel Pals hero image" width="100%" />
 </p>
 
